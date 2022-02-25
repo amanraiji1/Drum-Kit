@@ -55,7 +55,7 @@ function makeSound(key){
             kick.play();
           break;
 
-    default: alert("Click a button!");
+    default: console.log("Click a button!");
 }
 }
 
